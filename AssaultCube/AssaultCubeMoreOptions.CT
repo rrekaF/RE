@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"Done"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Ammo AR"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>140</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Ammo AR reserve"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>11C</Offset>
+            <Offset>1C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Ammo pistol"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>12C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"Ammo pistol reserve"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>108</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"Health"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>EC</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"pos z potential"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>2C</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>80</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0018AC00</Address>
+          <Offsets>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>56</ID>
+      <Description>"cam y potential"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>112</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0018AC00</Address>
+          <Offsets>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>113</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017F110</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>115</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>B3C</Offset>
+            <Offset>7E4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>116</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>B70</Offset>
+            <Offset>2B8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>117</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>CDC</Offset>
+            <Offset>2E8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>118</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>D44</Offset>
+            <Offset>B30</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>119</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>49C</Offset>
+            <Offset>840</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>120</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>1AC</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>121</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>21C</Offset>
+            <Offset>1C0</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>122</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>180</Offset>
+            <Offset>96C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>123</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>124</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>C74</Offset>
+            <Offset>4F4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>125</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>7B8</Offset>
+            <Offset>6F8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>55</ID>
+      <Description>"Cam X"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>31C</Offset>
+            <Offset>190</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>498</Offset>
+            <Offset>840</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>81C</Offset>
+            <Offset>6F4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>500</Offset>
+            <Offset>73C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>34</Offset>
+            <Offset>A8</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>34</Offset>
+            <Offset>F8</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>17C</Offset>
+            <Offset>96C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>34</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0018AC00</Address>
+          <Offsets>
+            <Offset>34</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>41</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>34</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>464</Offset>
+            <Offset>3DC</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>718</Offset>
+            <Offset>AB4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>44</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>8B8</Offset>
+            <Offset>76C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>D40</Offset>
+            <Offset>B30</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>46</ID>
+          <Description>"Cam X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017F110</Address>
+          <Offsets>
+            <Offset>34</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"pos x potential"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>70C</Offset>
+            <Offset>AB4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>810</Offset>
+            <Offset>6F4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>9B0</Offset>
+            <Offset>5E8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>76</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>B2C</Offset>
+            <Offset>7E4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>378</Offset>
+            <Offset>68</Offset>
+            <Offset>98</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>2DC</Offset>
+            <Offset>98</Offset>
+            <Offset>45C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>79</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0018AC00</Address>
+          <Offsets>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>108</ID>
+      <Description>"pos y potential"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>85</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0018AC00</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>B8</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>80</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>7AC</Offset>
+            <Offset>6F8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>2C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>92</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>1C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>93</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>45C</Offset>
+            <Offset>3DC</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>94</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>710</Offset>
+            <Offset>AB4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>9B4</Offset>
+            <Offset>5E8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>84</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>4F8</Offset>
+            <Offset>73C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>B30</Offset>
+            <Offset>7E4</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>F8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>B8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>80</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>A8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>94C</Offset>
+            <Offset>98</Offset>
+            <Offset>7BC</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>9E8</Offset>
+            <Offset>30</Offset>
+            <Offset>CDC</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>490</Offset>
+            <Offset>840</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>9E8</Offset>
+            <Offset>64</Offset>
+            <Offset>E6C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"ac_client.exe"+00183828</Address>
+          <Offsets>
+            <Offset>A94</Offset>
+            <Offset>C88</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>127</ID>
+      <Description>"Armor"</Description>
+      <GroupHeader>1</GroupHeader>
+      <Address>0</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>135</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0017E0A8</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>136</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0018AC00</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>137</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+00195404</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>138</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>A8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>139</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>B8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>140</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>A8</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>2C</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>F8</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>80</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>1C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>2C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"ac_client.exe"+0016F338</Address>
+          <Offsets>
+            <Offset>A0</Offset>
+            <Offset>F0</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>
